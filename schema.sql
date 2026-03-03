@@ -49,3 +49,7 @@ CREATE TABLE RMA (
         ON DELETE CASCADE
         ON UPDATE CASCADE
 );
+
+-- RMA Relational Database Schema
+-- Defines normalized tables with primary and foreign key constraints
+-- Implements data integrity enforcement for reporting and analytics
